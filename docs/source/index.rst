@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+For88 ⭐️ Nhận Ngay 156K Trong 7 Ngày Đăng Nhập【Chính Thức】
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`For88 <https://for88.uk/>`_ - Nền tảng game Slot và Bắn cá hàng đầu, chỉ cần đăng nhập 7 ngày liên tiếp, nhận ngay 156K! Trải nghiệm đẳng cấp, cơ hội trúng thưởng hấp dẫn tại For88.uk
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Website: https://for88.uk/
 
-.. note::
+Địa chỉ: 277 Đ. Lĩnh Nam, Vĩnh Hưng, Hoàng Mai, Hà Nội, Việt Nam
 
-   This project is under active development.
+Điện thoại: 0868539035
 
-Contents
---------
+Zip code: 100000
 
-.. toctree::
+Email: for88uk@gmail.com
 
-   usage
-   api
+Hastag: #for88; #nhacaifor88
